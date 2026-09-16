@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Shameless vibe-coding CI/CD pipeline](#shameless-vibe-coding-cicd-pipeline)
+- [Shameless vibe-coding CI/CD pipeline (deprecated)](#shameless-vibe-coding-cicd-pipeline-deprecated)
   - [Local/cloud container + Claude Code + ruvnet/claude-flow + YOLO-PRO protocols + Continuous Deployment on commit](#localcloud-container--claude-code--ruvnetclaude-flow--yolo-pro-protocols--continuous-deployment-on-commit)
   - [Who this is for](#who-this-is-for)
   - [Common Components](#common-components)
