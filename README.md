@@ -28,7 +28,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Shameless vibe-coding CI/CD pipeline
+# Shameless vibe-coding CI/CD pipeline (deprecated)
 
 ## Local/cloud container + Claude Code + ruvnet/claude-flow + YOLO-PRO protocols + Continuous Deployment on commit
 **Impatient and want to get started? Hit the [setup instructions](#setup-instructions) now!**
